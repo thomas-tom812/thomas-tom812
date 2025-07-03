@@ -13,7 +13,6 @@
 
 ```yaml
 name: Haruki Sakahashi
-location: Japan
 role: Full Stack Developer
 interests:
   - Mobile apps with React Native
